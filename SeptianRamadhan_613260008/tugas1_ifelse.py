@@ -1,4 +1,13 @@
+# ==================================================
+# Tugas Mandiri Modul 1 - Program Percabangan
+# Nama  : Mohammad Septian Ramadhan
+# NIM   : 613260008
+# Kelas : D3 TI 1A
+# ==================================================
+
 nilai = float(input("Masukkan nilai akhir Anda (0-100): "))
+
+print("=========================================")
 
 if nilai < 0 or nilai > 100:
     print("Kesalahan: Nilai harus berada dalam rentang 0 hingga 100.")
@@ -25,10 +34,3 @@ else:
 
 print("=========================================")
 print("Terima kasih telah menggunakan program ini.")
-
-# ==================================================
-# Tugas Mandiri Modul 1 - Program Percabangan
-# Nama  : Mohammad Septian Ramadhan
-# NIM   : 613260008
-# Kelas : D3 TI 1A
-# ==================================================
