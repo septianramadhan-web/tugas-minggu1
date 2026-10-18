@@ -1,11 +1,4 @@
-print("=========================================")
-print("   PROGRAM KONVERSI NILAI HURUF MUTU     ")
-print("=========================================")
-
 nilai = float(input("Masukkan nilai akhir Anda (0-100): "))
-
-print("-----------------------------------------")
-
 
 if nilai < 0 or nilai > 100:
     print("Kesalahan: Nilai harus berada dalam rentang 0 hingga 100.")
